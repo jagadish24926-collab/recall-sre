@@ -1,4 +1,4 @@
-# TraceMind
+# TraceMind app
 
 **Live:** https://tracemind.run.place
 
